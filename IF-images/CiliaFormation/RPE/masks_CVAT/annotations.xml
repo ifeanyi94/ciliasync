@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1372921</id>
+      <name>RPE_rgb_CH(561)_CH3_mask</name>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-05-08 06:02:17.724425+00:00</created>
+      <updated>2025-05-08 06:16:23.573937+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2440500</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/2438226</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ifeanyi365</username>
+        <email>ifeanyienekwa@yahoo.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>cilia</name>
+          <color>#ea2e45</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cilia2</name>
+          <color>#33ddff</color>
+          <type>mask</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cilia3</name>
+          <color>#fe3e6f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2025-05-08 06:19:25.689044+00:00</dumped>
+  </meta>
+  <image id="0" name="RPE_rgb_CH(561)_CH3.png" width="1920" height="1200">
+    <box label="cilia3" source="manual" occluded="0" xtl="226.15" ytl="76.15" xbr="267.69" ybr="124.62" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="115.72" ytl="248.03" xbr="156.53" ybr="293.94" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="91.91" ytl="360.27" xbr="134.42" ybr="394.28" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="1328.26" ytl="657.88" xbr="1387.78" ybr="742.91" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="739.85" ytl="297.34" xbr="768.76" ybr="341.56" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="930.31" ytl="361.97" xbr="964.33" ybr="412.99" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="1470.43" ytl="987.87" xbr="1499.36" ybr="1035.53" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="1082.34" ytl="744.47" xbr="1119.79" ybr="792.13" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="918.94" ytl="528.30" xbr="952.98" ybr="565.75" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="1009.15" ytl="295.11" xbr="1029.58" ybr="325.75" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="1053.41" ytl="334.26" xbr="1084.04" ybr="359.79" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="471.28" ytl="906.17" xbr="500.21" ybr="940.21" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="1461.92" ytl="409.15" xbr="1490.85" ybr="444.89" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="1078.94" ytl="152.13" xbr="1114.68" ybr="182.77" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="527.45" ytl="75.53" xbr="547.87" ybr="106.17" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="527.45" ytl="153.83" xbr="556.38" ybr="189.58" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="644.89" ytl="778.51" xbr="678.94" ybr="819.36" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="900.21" ytl="434.68" xbr="929.15" ybr="473.83" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="833.83" ytl="359.79" xbr="862.77" ybr="395.53" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="884.89" ytl="312.13" xbr="912.13" ybr="344.47" z_order="0">
+    </box>
+    <box label="cilia3" source="manual" occluded="0" xtl="884.89" ytl="259.36" xbr="910.43" ybr="281.49" z_order="0">
+    </box>
+  </image>
+</annotations>
